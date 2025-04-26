@@ -53,6 +53,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
+![image](https://github.com/user-attachments/assets/42bbbcba-c6f5-4022-a743-f09c66991114)
+
 
 ## Sprint 2
 - [ ] Documento passo a passo;
