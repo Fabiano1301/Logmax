@@ -76,8 +76,8 @@ Na primeira Sprint, o cliente aprovou o backlog para as seguintes tarfas:
 
 ## Sprint 2
 Nessa Sprint 2, conseguimos validar com o cliente as tarefas para conectar e relacionar os dados através da kinguagem de programação Python, utilizando a ferramenta Google Colab para desenvolver o código.
-- [x] Como usuário, quero conectar todas as fontes de dados através de um banco de dados em Python3+ para conseguir manipular toda a quantidade de dados;
-- [x] Como usuário, quero relacionar as tabelas do banco de dados para conseguir ter uma melhor visualização dos municípios e produotos exportados;
+- [x] Conectar todas as fontes de dados através de um banco de dados em Python3+ para conseguir manipular toda a quantidade de dados;
+- [x] Relacionar as tabelas do banco de dados para conseguir ter uma melhor visualização dos municípios e produotos exportados;
 
 - Nesse primeiro momento, criamos a planilha "Filtro" onde nós concatenamos as planilhas com as importações de 2023 e 2024, além de aplicar um filtro para que mostrasse apenas as importações feitas no Estado de São Paulo.
 
