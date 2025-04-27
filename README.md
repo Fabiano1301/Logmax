@@ -68,6 +68,7 @@ Na primeira Sprint, o cliente aprovou o backlog para as seguintes tarfas:
 - [x] Que mostrasse uma evolução através do tempo dessas importações;
 
 - Nesse primeiro momento, para conseguir trabalhar o layout do dashboard e entender um pouco mais como funcionariam a união dos dados no Python, através do bloco de notas, selecionamos arbitrariamente um período aleatório para criar uma planilha mais leve que pudessemos trabalhar sem problemas no Excel e no Power BI, com cerca de 200 linhas, e criamos o seguinte dashboard.
+
 ![image](https://github.com/user-attachments/assets/42bbbcba-c6f5-4022-a743-f09c66991114)
 
 - Não fizemos a alteração dos nomes dos produtos nem dos municípios, e o grafico representa apenas uma pequena fração do período de análise do projeto.
@@ -78,7 +79,7 @@ Nessa Sprint 2, conseguimos validar com o cliente as tarefas para conectar e rel
 - [x] Como usuário, quero conectar todas as fontes de dados através de um banco de dados em Python3+ para conseguir manipular toda a quantidade de dados;
 - [x] Como usuário, quero relacionar as tabelas do banco de dados para conseguir ter uma melhor visualização dos municípios e produotos exportados;
 
-Nesse primeiro momento, criamos a planilha "Filtro" onde nós concatenamos as planilhas com as importações de 2023 e 2024, além de aplicar um filtro para que mostrasse apenas as importações feitas no Estado de São Paulo.
+- Nesse primeiro momento, criamos a planilha "Filtro" onde nós concatenamos as planilhas com as importações de 2023 e 2024, além de aplicar um filtro para que mostrasse apenas as importações feitas no Estado de São Paulo.
 
 ![image](https://github.com/user-attachments/assets/30370806-498a-46f5-abaa-d380e443944f)
 ![image](https://github.com/user-attachments/assets/6faa1c88-240f-4c4f-8d85-03dcc0ffe104)
@@ -99,6 +100,7 @@ Nesse primeiro momento, criamos a planilha "Filtro" onde nós concatenamos as pl
 ![image](https://github.com/user-attachments/assets/242385cf-5800-4b5e-a9b4-92de58285008)
 ![image](https://github.com/user-attachments/assets/0f46ca1a-ef2b-466e-be70-0ca1bf255a90)
 ![image](https://github.com/user-attachments/assets/43ffea9f-163f-43ad-b160-5438b32d8fe0)
+
 
 ## Sprint 3
 - [ ] Defina o propósito do template;
