@@ -26,29 +26,43 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 |  Team Member  | Willian Pierre     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
+Este projeto tem como objetivo criar um dashboard em Power BI para análise de dados de Importações que ocorreram entre os anos de 2023 e 2024 no estado de São Paulo, utilizando dados abertos forencidos pelo Comexstat, criando uma backend em Python para filtrar e análisar esses dados, e com isso ajudar a desenvolver algumas habilidades como:  
+* Trabalho em grupo;
 * Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+* Fazer uma divisão justa das tarefas;
+* Documentar tudos via GitHub;
+* Desenvolver Soft e Hard Skills.
 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Jira
+ > GitHub
+ > Slack
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Python3+
+ > PowerBI
+  
 
 # Backlog do produto
+- [x] Como cliente, quero conseguir segmentar por municípios para conseguir buscar quais realizam importações com maior valor agregado;
+- [x] Como cliente, quero conseguir aplicar um filtro de item para identificar quais municípios mais importam eles;
+- [x] Como cliente, quero conseguir ranquear os produtos com maior valor agregado importados, para identificar possíveis mercados em alta;
+- [x] Como cliente, quero uma visualização gráfica de evolução histórica da balança comercial dos municípios para identificar pontos altos e baixo;
+- [ ] Como usuário, quero conectar todas as fontes de dados através de um banco de dados em Python3+ para conseguir manipular toda a quantidade de dados;
+- [ ] Como usuário, quero relacionar as tabelas do banco de dados para conseguir ter uma melhor visualização dos municípios e produotos exportados;
+- [ ] Como cliente, quero que seja desenvolvido uma backend em Python3+ para conseguir localizar e filtrar os dados de forma mais dinâmica;
+- [ ] Como cliente, quero que seja feito um estudo de sazonalidade para que seja possível identificar períodos de maior em menos movimento das exportações;
+- [ ] Como cliente, quero que seja mostrado a diversificação dos produtos e quais municípios concentram suas exportações em poucos produtos e quais diversificam mais;
+- [ ] Como cliente, quero que sejam feitas projeções futuras com base nas tendências históricas do período analisado;
 
 ## Sprint 1
 Na primeira Sprint, o cliente aprovou o backlog para as seguintes tarfas:
-= [ ] Gerar um PowerBI que conseguisse seguimentar por municipios;
-= [ ] Que conseguisse filtrar por itens importados;
-= [ ] Que ranqueasse esses itens por municipio;
-= [ ] Que mostrasse uma evolução através do tempo dessas importações;
+- [x] Gerar um PowerBI que conseguisse seguimentar por municipios;
+- [x] Que conseguisse filtrar por itens importados;
+- [x] Que ranqueasse esses itens por municipio;
+- [x] Que mostrasse uma evolução através do tempo dessas importações;
 ![image](https://github.com/user-attachments/assets/42bbbcba-c6f5-4022-a743-f09c66991114)
 
 
@@ -102,6 +116,6 @@ Sprint | Previsão | Status| Histórico|
 |01 | 31/03/2025 | Feito | [MVP](https://) | 
 |02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
 |03| dd/mm/aaaa | a fazer|[MVP](https://) | 
-|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
+|04| dd/mm/aaaa | a fazer|[MVP](https://)  | 
 |Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
 # projeto-de-munic-pios
