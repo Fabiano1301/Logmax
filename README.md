@@ -66,7 +66,11 @@ Na primeira Sprint, o cliente aprovou o backlog para as seguintes tarfas:
 - [x] Que conseguisse filtrar por itens importados;
 - [x] Que ranqueasse esses itens por municipio;
 - [x] Que mostrasse uma evolução através do tempo dessas importações;
+
+- Nesse primeiro momento, para conseguir trabalhar o layout do dashboard e entender um pouco mais como funcionariam a união dos dados no Python, através do bloco de notas, selecionamos arbitrariamente um período aleatório para criar uma planilha mais leve que pudessemos trabalhar sem problemas no Excel e no Power BI, com cerca de 200 linhas, e criamos o seguinte dashboard.
 ![image](https://github.com/user-attachments/assets/42bbbcba-c6f5-4022-a743-f09c66991114)
+
+- Não fizemos a alteração dos nomes dos produtos nem dos municípios, e o grafico representa apenas uma pequena fração do período de análise do projeto.
 
 
 ## Sprint 2
@@ -74,6 +78,7 @@ Nessa Sprint 2, conseguimos validar com o cliente as tarefas para conectar e rel
 - [x] Como usuário, quero conectar todas as fontes de dados através de um banco de dados em Python3+ para conseguir manipular toda a quantidade de dados;
 - [x] Como usuário, quero relacionar as tabelas do banco de dados para conseguir ter uma melhor visualização dos municípios e produotos exportados;
 
+Nesse primeiro momento, criamos a planilha "Filtro" onde nós concatenamos as planilhas com as importações de 2023 e 2024, além de aplicar um filtro para que mostrasse apenas as importações feitas no Estado de São Paulo.
 
 ![image](https://github.com/user-attachments/assets/30370806-498a-46f5-abaa-d380e443944f)
 ![image](https://github.com/user-attachments/assets/6faa1c88-240f-4c4f-8d85-03dcc0ffe104)
@@ -82,10 +87,12 @@ Nessa Sprint 2, conseguimos validar com o cliente as tarefas para conectar e rel
 ![image](https://github.com/user-attachments/assets/5967e6ec-c044-49fc-b50b-703a96a4cbd3)
 ![image](https://github.com/user-attachments/assets/c68c47e6-9b75-40c8-b710-aba9063de9b6)
 ![image](https://github.com/user-attachments/assets/3f3ec7bd-7e85-4801-baa8-05a6a9d9464f)
-
-Tempo
-
 ![image](https://github.com/user-attachments/assets/a7e00f1a-fc98-4a53-bb52-1f113874b901)
+
+- Já nesse segundo momento, como os códigos da primeira etapa estavam um pouco confusos, decidimos começar de novo, mas importando a planilha onda já haviamos progredido ao invés de iniciar do 0.
+- Feito isso, conseguimos fazer o Merge das informações sobre municípios, paises e produtos na planilha, e também criamos uma nova coluna para alocar o "Valor Agregado" que será utilizado futuramente para compor o ranking no dashboard.
+- Além disso, nós também removemos os resultados nulos dessa nova coluna, para evitar distroções indesejadas no gráfico.
+
 ![image](https://github.com/user-attachments/assets/1b62b7fe-1b8c-4df1-8757-65c7b4fe8b39)
 ![image](https://github.com/user-attachments/assets/4352d59f-a193-43c9-b8b6-bf421b89c034)
 ![image](https://github.com/user-attachments/assets/ffce2661-447f-4287-920f-f84f5822dbd3)
