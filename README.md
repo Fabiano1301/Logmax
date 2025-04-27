@@ -70,6 +70,12 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ![image](https://github.com/user-attachments/assets/c68c47e6-9b75-40c8-b710-aba9063de9b6)
 ![image](https://github.com/user-attachments/assets/3f3ec7bd-7e85-4801-baa8-05a6a9d9464f)
 ![image](https://github.com/user-attachments/assets/a7e00f1a-fc98-4a53-bb52-1f113874b901)
+![image](https://github.com/user-attachments/assets/1b62b7fe-1b8c-4df1-8757-65c7b4fe8b39)
+![image](https://github.com/user-attachments/assets/4352d59f-a193-43c9-b8b6-bf421b89c034)
+![image](https://github.com/user-attachments/assets/ffce2661-447f-4287-920f-f84f5822dbd3)
+![image](https://github.com/user-attachments/assets/242385cf-5800-4b5e-a9b4-92de58285008)
+![image](https://github.com/user-attachments/assets/0f46ca1a-ef2b-466e-be70-0ca1bf255a90)
+![image](https://github.com/user-attachments/assets/43ffea9f-163f-43ad-b160-5438b32d8fe0)
 
 ## Sprint 3
 - [ ] Defina o propósito do template;
