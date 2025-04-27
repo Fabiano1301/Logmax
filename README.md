@@ -62,6 +62,14 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Treinamento com os professores;
 - [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
+![image](https://github.com/user-attachments/assets/30370806-498a-46f5-abaa-d380e443944f)
+![image](https://github.com/user-attachments/assets/6faa1c88-240f-4c4f-8d85-03dcc0ffe104)
+![image](https://github.com/user-attachments/assets/15a118cb-3280-45ff-9cd6-4dfeea22c310)
+![image](https://github.com/user-attachments/assets/a1cad5fd-e5e5-477f-a8b9-61e0df764de7)
+![image](https://github.com/user-attachments/assets/5967e6ec-c044-49fc-b50b-703a96a4cbd3)
+![image](https://github.com/user-attachments/assets/c68c47e6-9b75-40c8-b710-aba9063de9b6)
+![image](https://github.com/user-attachments/assets/3f3ec7bd-7e85-4801-baa8-05a6a9d9464f)
+![image](https://github.com/user-attachments/assets/a7e00f1a-fc98-4a53-bb52-1f113874b901)
 
 ## Sprint 3
 - [ ] Defina o propósito do template;
