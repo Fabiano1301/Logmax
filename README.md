@@ -44,15 +44,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+Na primeira Sprint, o cliente aprovou o backlog para as seguintes tarfas:
+= [ ] Gerar um PowerBI que conseguisse seguimentar por municipios;
+= [ ] Que conseguisse filtrar por itens importados;
+= [ ] Que ranqueasse esses itens por municipio;
+= [ ] Que mostrasse uma evolução através do tempo dessas importações;
 ![image](https://github.com/user-attachments/assets/42bbbcba-c6f5-4022-a743-f09c66991114)
 
 
