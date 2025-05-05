@@ -103,6 +103,7 @@ Nessa Sprint 2, conseguimos validar com o cliente as tarefas para conectar e rel
 ![image](https://github.com/user-attachments/assets/917dc8eb-48d2-4a68-b789-b61223a550dc)
 ![image](https://github.com/user-attachments/assets/15c7c741-910f-4f63-8266-4724af4ef0fb)
 ![image](https://github.com/user-attachments/assets/7b027a43-7b39-43db-8dbc-1630fd04193b)
+![image](https://github.com/user-attachments/assets/28960930-ad3b-4038-bc08-3361e6eb2f18)
 
 
 ## Sprint 3
