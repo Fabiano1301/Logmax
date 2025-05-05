@@ -92,7 +92,7 @@ Nessa Sprint 2, conseguimos validar com o cliente as tarefas para conectar e rel
 
 - Já nesse segundo momento, como os códigos da primeira etapa estavam um pouco confusos, decidimos começar de novo, mas importando a planilha onda já haviamos progredido ao invés de iniciar do 0.
 - Feito isso, conseguimos fazer o Merge das informações sobre municípios, paises e produtos na planilha, e também criamos uma nova coluna para alocar o "Valor Agregado" que será utilizado futuramente para compor o ranking no dashboard.
-- Além disso, nós também removemos os resultados nulos dessa nova coluna, para evitar distroções indesejadas no gráfico.
+- Além disso, nós também removemos os resultados negativos e nulos dessa nova coluna, para evitar distroções indesejadas no gráfico.
 
 ![image](https://github.com/user-attachments/assets/1b62b7fe-1b8c-4df1-8757-65c7b4fe8b39)
 ![image](https://github.com/user-attachments/assets/4352d59f-a193-43c9-b8b6-bf421b89c034)
