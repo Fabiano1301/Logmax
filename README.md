@@ -107,16 +107,11 @@ Nessa Sprint 2, conseguimos validar com o cliente as tarefas para conectar e rel
 
 
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
+Na Sprint 3 conseguimos mudar a dashboard conforme as necessidades do cliente, tambem estamos finalizando o relatorio do projeto 
+![Captura de Tela (6)](https://github.com/user-attachments/assets/f70d6d70-8115-4b78-b0e8-aa54c94ce5ca)
+![Captura de Tela (5)](https://github.com/user-attachments/assets/44aa17d1-5800-40cf-a3d9-6f5b2d193374)
+![Captura de Tela (7)](https://github.com/user-attachments/assets/88373133-2298-4c39-a03d-fbfaea070985)
+![Captura de Tela (8)](https://github.com/user-attachments/assets/82b4b41e-d462-46b3-9228-915c1ad75434)      
 ## Sprint 4
 - [ ] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
