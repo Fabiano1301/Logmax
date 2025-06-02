@@ -108,10 +108,10 @@ Nessa Sprint 2, conseguimos validar com o cliente as tarefas para conectar e rel
 
 ## Sprint 3
 Na Sprint 3 conseguimos mudar a dashboard conforme as necessidades do cliente, tambem estamos finalizando o relatorio do projeto 
-![Captura de Tela (9)](https://github.com/user-attachments/assets/fac02482-de41-4be7-af4e-13618939c676)
-![Captura de Tela (5)](https://github.com/user-attachments/assets/44aa17d1-5800-40cf-a3d9-6f5b2d193374)
-![Captura de Tela (7)](https://github.com/user-attachments/assets/88373133-2298-4c39-a03d-fbfaea070985)
-![Captura de Tela (8)](https://github.com/user-attachments/assets/82b4b41e-d462-46b3-9228-915c1ad75434)      
+![WhatsApp Image 2025-06-02 at 09 19 28](https://github.com/user-attachments/assets/2cc64b57-65b1-4578-8586-ddc3b7c9f28e)
+![WhatsApp Image 2025-06-02 at 09 19 28 (1)](https://github.com/user-attachments/assets/e0e816b1-d937-473c-981f-70fb9f213b3c)
+![WhatsApp Image 2025-06-02 at 09 19 29](https://github.com/user-attachments/assets/30d02f97-16c8-48ad-8280-bbc72364d5e9)
+![WhatsApp Image 2025-06-02 at 09 19 29 (1)](https://github.com/user-attachments/assets/89e838f0-f501-4e4d-98f5-3a3dea8fd1b8)
 ## Sprint 4
 - [ ] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
