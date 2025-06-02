@@ -128,8 +128,8 @@ Na Sprint 3 conseguimos mudar a dashboard conforme as necessidades do cliente, t
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 31/03/2025 | Feito | [MVP](https://) | 
-|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
-|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
+|02|  05/05/2025| Feito|[MVP](https://) | 
+|03| 02/06/2025 | Feito|[MVP](https://) | 
 |04| dd/mm/aaaa | a fazer|[MVP](https://)  | 
 |Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
 # projeto-de-munic-pios
