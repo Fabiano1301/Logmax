@@ -105,6 +105,8 @@ Nessa Sprint 2, conseguimos validar com o cliente as tarefas para conectar e rel
 ![image](https://github.com/user-attachments/assets/7b027a43-7b39-43db-8dbc-1630fd04193b)
 ![image](https://github.com/user-attachments/assets/eaac2bba-c35c-4dd4-b8d9-98a8570c0231)
 
+Após solicitação do Cliente foi revizado a base de dados
+![Uploading image.png…]()
 
 ## Sprint 3
 Na Sprint 3 conseguimos mudar a dashboard conforme as necessidades do cliente, tambem estamos finalizando o relatorio do projeto 
@@ -130,6 +132,6 @@ Sprint | Previsão | Status| Histórico|
 |01 | 31/03/2025 | Feito | [MVP](https://) | 
 |02|  05/05/2025| Feito|[MVP](https://) | 
 |03| 02/06/2025 | Feito|[MVP](https://) | 
-|04| dd/mm/aaaa | a fazer|[MVP](https://)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
+|04| 17/06/2025 | Feito|[MVP](https://)  | 
+|Feira de Soluções|17/06/2025 |Feito |[MVP](https://) | 
 # projeto-de-munic-pios
