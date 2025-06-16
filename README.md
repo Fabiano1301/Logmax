@@ -115,7 +115,9 @@ Na Sprint 3 conseguimos mudar a dashboard conforme as necessidades do cliente, t
 ## Sprint 4
 Nessa sprint realizamos uma correção na base de dados, conforme solicitado pelo Cliente
 ![image](https://github.com/user-attachments/assets/bb1fb358-c0f2-4d30-b4da-3ca4d8a6340d)
+
 ![image](https://github.com/user-attachments/assets/dd1b4dc2-a4ca-47bd-92e6-fded495036e5)
+
 ![image](https://github.com/user-attachments/assets/8d3a0ac1-e63b-4628-a7cc-36c7d3fda7a0)
 
 # Registro das Sprints
