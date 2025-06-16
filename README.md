@@ -105,9 +105,6 @@ Nessa Sprint 2, conseguimos validar com o cliente as tarefas para conectar e rel
 ![image](https://github.com/user-attachments/assets/7b027a43-7b39-43db-8dbc-1630fd04193b)
 ![image](https://github.com/user-attachments/assets/eaac2bba-c35c-4dd4-b8d9-98a8570c0231)
 
-Após solicitação do Cliente foi revizado a base de dados
-![image](https://github.com/user-attachments/assets/b238b8c3-6980-46cc-ac10-7e6e1015f06c) 
-
 ## Sprint 3
 Na Sprint 3 conseguimos mudar a dashboard conforme as necessidades do cliente, tambem estamos finalizando o relatorio do projeto 
 ![WhatsApp Image 2025-06-02 at 09 19 28](https://github.com/user-attachments/assets/2cc64b57-65b1-4578-8586-ddc3b7c9f28e)
@@ -118,15 +115,9 @@ Na Sprint 3 conseguimos mudar a dashboard conforme as necessidades do cliente, t
 ![image](https://github.com/user-attachments/assets/fb3661bf-a9f1-4955-aa0a-cda9249fe62e)
 
 ## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+Nessa sprint realizamos uma correção na base de dados, conforme solicitado pelo Cliente
+![image](https://github.com/user-attachments/assets/bb1fb358-c0f2-4d30-b4da-3ca4d8a6340d)
+
 
 # Registro das Sprints
 
