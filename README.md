@@ -106,7 +106,7 @@ Nessa Sprint 2, conseguimos validar com o cliente as tarefas para conectar e rel
 ![image](https://github.com/user-attachments/assets/eaac2bba-c35c-4dd4-b8d9-98a8570c0231)
 
 Após solicitação do Cliente foi revizado a base de dados
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b238b8c3-6980-46cc-ac10-7e6e1015f06c) 
 
 ## Sprint 3
 Na Sprint 3 conseguimos mudar a dashboard conforme as necessidades do cliente, tambem estamos finalizando o relatorio do projeto 
