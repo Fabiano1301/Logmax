@@ -114,6 +114,9 @@ Na Sprint 3 conseguimos mudar a dashboard conforme as necessidades do cliente, t
 ![WhatsApp Image 2025-06-02 at 09 19 28 (1)](https://github.com/user-attachments/assets/e0e816b1-d937-473c-981f-70fb9f213b3c)
 ![WhatsApp Image 2025-06-02 at 09 19 29](https://github.com/user-attachments/assets/30d02f97-16c8-48ad-8280-bbc72364d5e9)
 ![WhatsApp Image 2025-06-02 at 09 19 29 (1)](https://github.com/user-attachments/assets/89e838f0-f501-4e4d-98f5-3a3dea8fd1b8)
+![image](https://github.com/user-attachments/assets/74badd57-8ea7-42b7-b6b8-251475a2e497)
+![image](https://github.com/user-attachments/assets/fb3661bf-a9f1-4955-aa0a-cda9249fe62e)
+
 ## Sprint 4
 - [ ] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
