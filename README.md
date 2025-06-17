@@ -16,7 +16,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 Descrição da demanda realizada pelo parceiro acadêmico.
 
 # Equipe
-|    Função          | Nome                                                                                                                                                                                                                                                                                                                                       |
+|    Função                  |    Nome                                                                                                                                                                                                                                                                                                                                       |
 
 | Product Owner |   Cristovão jr                    
 | Scrum Master  | Fabiano Almeida     
